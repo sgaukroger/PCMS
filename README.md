@@ -1,1 +1,2 @@
 # CMS
+Constituent Management System (CMS) is a system that allows parliamentarians to record and store interactions with their constituents. This will have many benefits. Better constituent engagement, issues tracking and better communication.
