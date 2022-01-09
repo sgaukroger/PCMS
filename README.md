@@ -7,4 +7,6 @@ This repository houses the files and necessary documentation for the Pegasus Con
 ### File Structure
 The packages will be broken up into a number of subsystems. These include: 
 - Backend (Software that interacts with the SQL backend)
+- Frontend (The GUI)
+- Documentation (All relevent documentation lives here)
 
