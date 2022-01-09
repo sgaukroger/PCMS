@@ -9,3 +9,9 @@ The packages will be broken up into a number of subsystems. These include:
 - Frontend (The GUI)
 - Documentation (All relevent documentation lives here)
 
+### To Do List
+- [] Create GUI
+- [] Create backend SQL interface software
+- [] Testing 
+- [] Create user documentation
+
